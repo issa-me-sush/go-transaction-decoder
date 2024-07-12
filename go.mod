@@ -1,5 +1,4 @@
-module go-transaction-decoder
-
+module github.com/issa-me-sush/go-transaction-decoder
 go 1.15
 
 require (
